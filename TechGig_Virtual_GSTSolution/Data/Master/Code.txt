@@ -1,0 +1,31 @@
+Module Module1
+
+    Sub Main()
+
+        Dim str1 As String
+        str1 = "Brazil nuts, dried, shelled or peeled"
+        Dim str2 As String
+        str2 = "Brazil nuts, dried, whether or not shelled or peeled"
+        Dim result1() As String = Split(str1, ",")
+        Dim result2() As String = Split(str2, ",")
+        Dim str1count As Integer = result1.Count
+        Dim Vcount As Integer = 0
+        For Each word1 In result1
+            For Each word2 In result2
+                Dim Rword = Trim(word2).Replace("whether or not", "")
+                If Trim(word1).Contains(Trim(Rword)) Then
+                    Vcount = Vcount + 1
+                    Exit For
+                End If
+            Next
+        Next
+        If str1count = Vcount Then
+            Console.WriteLine("Match")
+        Else
+            Console.WriteLine("Not Match")
+        End If
+
+
+    End Sub
+
+End Module

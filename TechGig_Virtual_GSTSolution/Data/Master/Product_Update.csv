@@ -1,0 +1,26 @@
+﻿Product_Id,HSN_Code,Product_Name,Description,GST,Price,Effective_From
+1,814,Peel of citrus fruit or melons,"Peel of citrus fruit or melons ,watermelons, frozen, dried or provisionally preserved in brine",1,100,28/06/2017
+2,814,Peel of citrus fruit or melons,"Peel of citrus fruit or melons, fresh.",NIL,200,28/06/2017
+3,801,Cashewnuts,"Cashewnuts, shelled or peeled",1,300,28/06/2017
+4,801,Brazil nuts,"Brazil nuts, dried, shelled or peeled",1,200,28/06/2017
+5,801,Coconuts,"Coconuts, fresh or dried, shelled or peeled",NIL,200,28/06/2017
+6,801,Brazil nuts,"Brazil nuts, fresh, shelled or peeled",NIL,200,28/06/2017
+7,802,Dried areca nuts,"Dried areca nuts,shelled or peeled",2.5,400,01/20/2020 00:00:00
+8,802,singhada,"Dried chestnuts,singhada,shelled or peeled",1,500,28/06/2017
+9,802,nuts,"Other nuts, dried, whether or not shelled or peeled, such as Almonds, Hazel nuts or filberts (Coryius spp.), Chestnuts (Castanea spp.), Pistachios, Macadamia nuts, Kola nuts (Cola spp.)",1,200,28/06/2017
+10,802,nuts,"Other nuts, Other nuts, fresh such as Almonds, Hazelnuts or filberts (Coryius spp.), walnuts, Chestnuts (Castanea spp.), Pistachios, Macadamia nuts, Kola nuts (Cola spp.), Areca nuts, fresh, whether or not shelled or peeled",NIL,100,28/06/2017
+11,802,Walnuts,"Walnuts, shelled",2.5,200,01/20/2020 00:00:00
+12,803,Bananas,"Bananas, plantains, fresh or dried",NIL,300,28/06/2017
+13,804,Mangoes,"Mangoes sliced, dried",1,100,13/10/2017
+14,804,Dates,"Dates (soft or hard), figs, pineapples, avocados, guavas, and mangosteens, dried",1,200,28/06/2017
+15,804,Dates,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh.",NIL,200,28/06/2017
+16,805,Citrus fruit,"Citrus fruit, such as Oranges, Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids, Grapefruit, including pomelos, Lemons (Citrus limon, Citrus limonum) and limes (Citrus aurantifolia, Citrus latifolia), fresh.",NIL,200,28/06/2017
+17,806,Grapes,"Grapes, dried, and raisins",2.5,200,01/20/2020 00:00:00
+18,806,Grapes,"Grapes, fresh",NIL,200,28/06/2017
+19,807,Melons,"Melons ,watermelons and papaws ,papayas, fresh.",NIL,200,28/06/2017
+20,808,Apple,"Apples, pears and quinces, fresh.",NIL,200,28/06/2017
+21,809,cherries,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.",NIL,200,28/06/2017
+22,810,strawberries,"Other fruit such as strawberries, raspberries, blackberries, mulberries and loganberries, black, white or red currants and gooseberries, cranberries, bilberries and Durians, Persimmons, Pomegranates, Tamarind, Sapota (chico), Custard-apple (ata), Bore, Lichi, fresh.",NIL,200,28/06/2017
+23,811,Fruit and nuts,"Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",2.5,200,01/20/2020 00:00:00
+24,812,Fruit and nuts,"Fruit and nuts, provisionally preserved (for example, by Sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions)",5,200,28/06/2017
+25,813,Tamarind,"Tamarind, dried",5,200,22/09/2017
